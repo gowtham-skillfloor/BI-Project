@@ -3,3 +3,4 @@ This is a report file, nothing more nothing less.
 Added a new line on VS Code.
 
 Line 1
+Line 2
